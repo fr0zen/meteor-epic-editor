@@ -3,6 +3,6 @@
     "description": "EpicEditor is an embeddable JavaScript Markdown editor.",
     "homepage": "https://github.com/alanmeira/meteor-epic-editor",
     "author": "Alan Meira <alanmeira@gmail.com>",
-    "version": "0.3.0",
+    "version": "0.3.1",
     "git": "https://github.com/alanmeira/meteor-epic-editor"
 }
