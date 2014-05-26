@@ -1,0 +1,8 @@
+{
+    "name": "epic-editor",
+    "description": "EpicEditor is an embeddable JavaScript Markdown editor.",
+    "homepage": "https://github.com/alanmeira/meteor-epic-editor",
+    "author": "Alan Meira <alanmeira@gmail.com>",
+    "version": "0.2.1",
+    "git": "https://github.com/alanmeira/meteor-epic-editor"
+}

@@ -1,0 +1,3 @@
+[submodule "select2"]
+	path = EpicEditor
+	url = git://github.com/OscarGodson/EpicEditor.git
